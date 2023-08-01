@@ -1,0 +1,122 @@
+{
+    "Pessoas": [
+      {
+        "name": "Nicholas II",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mikola_II_%28cropped%29-2.jpg",
+        "birth_date": "May 6, 1868",
+        "death_year": 1918,
+        "role": "Emperor and Autocrat of All the Russias",
+        "dynasty": "House of Romanov",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Georgy Lvov",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Georgy_Lvov_1917.jpg/800px-Georgy_Lvov_1917.jpg",
+        "birth_date": "November 2, 1861",
+        "death_year": 1925,
+        "role": "Prime Minister of Russia",
+        "party": "The Progressive Party",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Alexander Kerensky",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Alexander_Kerensky_LOC_24416.jpg/800px-Alexander_Kerensky_LOC_24416.jpg",
+        "birth_date": "May 4, 1881",
+        "death_year": 1970,
+        "role": "Prime Minister of Russia",
+        "party": "The Socialist Revolutionary Party",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Vladimir Lenin",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vladimir_Lenin.jpg/1200px-Vladimir_Lenin.jpg",
+        "birth_date": "April 22, 1870",
+        "death_year": 1924,
+        "role": "Chairman of the Council of People's Commissars of the Russian Soviet Federative Socialist Republic",
+        "party": "Communist Party of the Soviet Union",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Joseph Stalin",
+        "image": "data:image/jpeg;base64,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",
+        "birth_date": "December 18, 1878",
+        "death_year": 1953,
+        "role": "General Secretary of the Communist Party of the Soviet Union",
+        "party": "Communist Party of the Soviet Union",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Georgy Malenkov",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/4/42/Georgy_Malenkov_1964.jpg",
+        "birth_date": "January 8, 1902",
+        "death_year": 1988,
+        "role": "Chairman of the Council of Ministers of the Soviet Union",
+        "party": "Communist Party of the Soviet Union",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Nikita Khrushchev",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bundesarchiv_Bild_183-B0628-0015-035%2C_Nikita_S._Chruschtschow.jpg",
+        "birth_date": "April 15, 1894",
+        "death_year": 1971,
+        "role": "First Secretary of the Communist Party of the Soviet Union",
+        "party": "Communist Party of the Soviet Union",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Leonid Brezhnev",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%28d%29.jpg/640px-Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%28d%29.jpg",
+        "birth_date": "December 19, 1906",
+        "death_year": 1982,
+        "role": "General Secretary of the Communist Party of the Soviet Union",
+        "party": "Communist Party of the Soviet Union",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Yuri Andropov",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/4/44/Yuri_Andropov_-_Soviet_Life%2C_August_1983.jpg",
+        "birth_date": "June 15, 1914",
+        "death_year": 1984,
+        "role": "General Secretary of the Communist Party of the Soviet Union",
+        "party": "Communist Party of the Soviet Union",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Konstantin Chernenko",
+        "image":"https://upload.wikimedia.org/wikipedia/en/d/de/Konstantin_Chernenko_Portrait.jpg",
+        "birth_date": "September 24, 1911",
+        "death_year": 1985,
+        "role": "General Secretary of the Communist Party of the Soviet Union",
+        "party": "Communist Party of the Soviet Union",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Mikhail Gorbachev",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28cropped%29.jpg",
+        "birth_date": "March 2, 1931",
+        "death_year": 2022,
+        "role": "General Secretary of the Communist Party of the Soviet Union",
+        "party": "Communist Party of the Soviet Union",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Boris Yeltsin",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_%28cropped%29_%28cropped%29.jpg/220px-%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_%28cropped%29_%28cropped%29.jpg",
+        "birth_date": "February 1, 1931",
+        "death_year": 2007,
+        "role": "President of the Russian Federation",
+        "party": "Independent",
+        "telephone": "+7 495 697-03-49"
+      },
+      {
+        "name": "Vladimir Putin",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2818-06-2023%29_%28cropped%29.jpg",
+        "birth_date": "October 7, 1952",
+        "death_year": null,
+        "role": "President of the Russian Federation",
+        "party": "United Russia",
+        "telephone": "+7 495 697-03-49"
+      }
+    ]
+  }
+  

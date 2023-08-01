@@ -1,0 +1,21 @@
+.App{
+  display: flex;
+}
+.esquerda{
+  flex: 1;
+  max-width: 530px;
+  height: 100vh;
+  background: linear-gradient(to bottom, #fff, #fff, #d52b1e, #d52b1e, #0039a6, #0039a6);
+  border-right: 5px solid black;
+}
+.dieita{
+  flex:1;
+  width: calc(100vw - 530px);
+}
+
+
+
+
+
+
+
